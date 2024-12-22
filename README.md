@@ -6,4 +6,4 @@ This is a place to document all code for our final project in UMass' CICS 256: M
 
 Alex, Hannah, feel free to modify this repo as you see fit. You all wrote the code, after all :D
 
-This is a public repository, so anyone who visits this from our peoject site can see your amazing work.
+This is a public repository, so anyone who visits this from our project site can see your amazing work.

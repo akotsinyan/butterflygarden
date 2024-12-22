@@ -2,7 +2,7 @@
 
 Hello!
 
-This is a place to document all code for our final project in UMass' CICS 256: Make class, completed December 2024.
+This is a place to document all code for our final project in UMass' CICS 256: MAKE class, completed December 2024.
 
 Alex, Hannah, feel free to modify this repo as you see fit. You all wrote the code, after all :D
 
